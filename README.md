@@ -5,8 +5,10 @@ I'm a Mechatronics and Artificial Intelligence student from Universitas Pendidik
 # 🏢 Experiences
 | Roles | Company | Duration |
 | --- | --- | --- |
+| Data Analytics | [Vidio Dot Com](https://www.vidio.com/) | Feb 2024 - Present |
 | Data Analytics Virtual Internship | [KPMG Australia](https://kpmg.com/au/en/home.html) | Oct 2023 - Nov 2023 |
 | Content Creator Freelance | [Pinterest](https://www.pinterest.com/) | Mei 2019 - Present |
+| Marketing Product Management | [Hen's Jaya AC](https://hens-jaya-ac-mobil-pekanbaru.business.site/) | Jun 2023 - Feb 2024 |
 | Laboratory Assistant | [Politeknik Caltex Riau](https://pcr.ac.id/) | Jul 2019 - Oct 2019 |
 
 # ⚡ Technologies
