@@ -1,4 +1,4 @@
-# Glad to see you here! 👋
+# It's me Malik, Glad to see you here! 👋
 
 I'm a Mechatronics and Artificial Intelligence student from Universitas Pendidikan Indonesia who is interested in Data Analyst, Market Analyst, and Marketing. 
 
