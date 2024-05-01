@@ -1,4 +1,4 @@
-# It's me Malik, Glad to see you here! 👋
+# Glad to see you here! 👋
 
 I'm a Mechatronics and Artificial Intelligence student with a keen interest in leveraging data analysis techniques to drive marketing strategies, I find joy in delving into the convergence of technology and marketing through the lens of analytics. Additionally, I possess a genuine passion for integrating Natural Language Processing (NLP) techniques into marketing initiatives to maximize their effectiveness and drive meaningful impact.
 
