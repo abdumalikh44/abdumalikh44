@@ -5,7 +5,7 @@ I'm a Mechatronics and Artificial Intelligence student with a keen interest in l
 # 🏢 Experiences
 | Roles | Company | Duration |
 | --- | --- | --- |
-| Data Analytics Intern | [Vidio Dot Com](https://www.vidio.com/) | Feb 2024 - Present |
+| Data Analytics Intern | [Vidio Dot Com](https://www.vidio.com/) | Feb 2024 - Jun 2024 |
 | Data Analytics Virtual Internship | [KPMG Australia](https://kpmg.com/au/en/home.html) | Oct 2023 - Nov 2023 |
 | Content Creator Freelance | [Pinterest](https://www.pinterest.com/) | Mei 2019 - Present |
 | Laboratory Assistant | [Chevron](https://chevron.com/) | Jul 2019 - Oct 2019 |
