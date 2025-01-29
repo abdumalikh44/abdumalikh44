@@ -5,7 +5,7 @@ I'm a Mechatronics and Artificial Intelligence student with a keen interest in l
 # 🏢 Experiences
 | Roles | Company | Duration |
 | --- | --- | --- |
-| Payment Ecosystem Analyst | [Grab](https://www.grab.com/id/) | July 2024 - December 2024 |
+| Payment Ecosystem Analyst Intern | [Grab](https://www.grab.com/id/) | July 2024 - December 2024 |
 | Data Analytics Intern | [Vidio](https://www.vidio.com/) | Feb 2024 - Jun 2024 |
 | Data Analytics Intern | [KPMG AU](https://kpmg.com/au/en/home.html/) | Oct 2023 - Nov 2023 |
 | Content Creator Freelance | [Pinterest](https://www.pinterest.com/) | Mei 2019 - January 2024 |
