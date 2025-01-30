@@ -1,6 +1,6 @@
 # Glad to see you here! 👋
 
-I'm a Mechatronics and Artificial Intelligence student with a keen interest in leveraging data analysis techniques to drive marketing strategies, I find joy in delving into the convergence of technology and marketing through the lens of analytics. Additionally, I possess a genuine passion for integrating Machine Learning techniques into marketing initiatives to maximize their effectiveness and drive meaningful impact.
+I'm a Mechatronics and Artificial Intelligence student with a keen interest in leveraging data analysis techniques to drive marketing strategies, I find joy in delving into the convergence of technology and marketing through the lens of analytics. Additionally, I possess a genuine passion for integrating Machine Learning techniques into marketing initiatives to maximize their effectiveness and drive meaningful impact
 
 # 🏢 Experiences
 | Roles | Company | Duration |
