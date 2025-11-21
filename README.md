@@ -8,7 +8,6 @@ I'm a Mechatronics and Artificial Intelligence student with a keen interest in l
 | Payment Ecosystem Intern | [Grab](https://www.grab.com/id/) | July 2024 - December 2024 |
 | Data Analytics Intern | [Vidio](https://www.vidio.com/) | Feb 2024 - Jun 2024 |
 | Content Creator Freelance | [Pinterest](https://www.pinterest.com/) | Mei 2019 - January 2024 |
-| Laboratory Assistant | [Chevron](https://chevron.com/) | Jul 2019 - Oct 2019 |
 
 # ⚡ Technologies
 
