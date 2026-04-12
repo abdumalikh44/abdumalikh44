@@ -1,6 +1,6 @@
 # Glad to see you here! 👋
 
-Bachelor’s graduate in Mechatronics and Artificial Intelligence with hands-on internship experience as a data analyst. Focused on building dashboards and analyzing messy datasets to support product and business decision-making across fintech, healthcare, and media
+Data analyst with experience across pharmaceutical, fintech, and media industries. Proven track record in dashboard development and stakeholder training, delivering measurable impact including ~80% improvement in reporting efficiency and training 55+ cross-functional team members. Skilled in SQL, Power BI, Python, and Excel.
 
 # 🏢 Experiences
 | Roles | Company | Duration |
