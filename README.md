@@ -5,7 +5,7 @@ Data analyst with experience across pharmaceutical, fintech, and media industrie
 # 🏢 Experiences
 | Roles | Company | Duration |
 | --- | --- | --- |
-| Businesss Insight & Activation | [MSD](https://www.msd.com/) | June 2025 - December 2025 |
+| Businesss Insight & Activation Intern | [MSD](https://www.msd.com/) | June 2025 - December 2025 |
 | Payment Ecosystem Intern | [Grab](https://www.grab.com/id/) | July 2024 - December 2024 |
 | Data Analytics Intern | [Vidio](https://www.vidio.com/) | Feb 2024 - Jun 2024 |
 | Content Creator Freelance | [Pinterest](https://www.pinterest.com/) | Mei 2019 - January 2024 |
