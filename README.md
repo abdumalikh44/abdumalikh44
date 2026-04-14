@@ -10,6 +10,9 @@
   <a href="https://www.hackerrank.com/profile/abdumalikh44" target="_blank">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
   </a>
+  <a href="https://leetcode.com/u/abdumalikh/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
   &nbsp;
   <a href="mailto:abdumalikh44@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
