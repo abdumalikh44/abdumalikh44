@@ -43,6 +43,8 @@ Data analyst with experience across pharmaceutical, fintech, and media industrie
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+
+### Social Media
 <div>
   <p align = "center">
 <a href="https://www.linkedin.com/in/malikslbn/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
