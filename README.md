@@ -1,9 +1,6 @@
 <div align="center">
-
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:00ADD8&height=200&section=header&text=Abdu%20Malikh&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Business%20Data%20Analyst&descSize=20&descAlignY=58&animation=fadeIn" />
-
 </div>
-
 Data analyst with experience across pharmaceutical, fintech, and media industries. Proven track record in dashboard development and stakeholder training, delivering measurable impact including ~80% improvement in reporting efficiency and training 55+ cross-functional team members. Skilled in SQL, Power BI, Python, and Excel.
 
 # 🏢 Experiences
