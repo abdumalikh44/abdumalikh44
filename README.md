@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0072ff,100:005bea&height=200&section=header&text=Abdu%20Malikh&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Business%20Data%20Analyst&descSize=20&descAlignY=58&animation=fadeIn" />
 </div>
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/malikslbn/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -14,7 +14,7 @@
   <a href="mailto:abdumalikh44@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</div>
+</p>
 
 
 Data analyst with experience across pharmaceutical, fintech, and media industries. Proven track record in dashboard development and stakeholder training, delivering measurable impact including ~80% improvement in reporting efficiency and training 55+ cross-functional team members. Skilled in SQL, Power BI, Python, and Excel.
