@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=650&lines=Business+Data+Analyst;Mechatronics+%26+AI+Graduate+from+UPI;Ex+Grab+%7C+Vidio+%7C+MSD;Turning+Data+into+Business+Insights" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=650&lines=Business+Data+Analysis;Mechatronics+%26+AI+Graduate+from+UPI;Ex+Grab+%7C+Vidio+%7C+MSD;Turning+Data+into+Business+Insights" />
 </p>
 
 <p align="center">
